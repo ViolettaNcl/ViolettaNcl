@@ -1,188 +1,111 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:1F6FEB&height=160&section=header&text=Violet%20Nicolaou&fontSize=38&fontColor=F0F6FC&fontAlignY=35&animation=fadeIn"
+/>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Backend+Engineering+%7C+AI+Solutions;Building+software+for+real-world+problems"
+    alt="Typing animation"
+  />
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Violet+Nicolaou;Full-Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+AI;Building+Production-Ready+Software" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/C%23-Developer-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-Solutions-4285F4?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
 </div>
 
+## About
 
----
+Full-Stack .NET Developer focused on **backend engineering, scalable applications and clean system design**.
 
-# 👨‍💻 About
-
-Full-Stack .NET Developer focused on building scalable software systems,
-secure backend architectures and AI-powered applications.
-
-Specialized in:
-
-- Backend development
-- REST API design
-- Database architecture
-- Healthcare software
-- AI integrations
-
-
----
-
-# 🛠 Tech Stack
-
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,postgres,docker,git,github,linux,html,css,js&perline=10" />
-
-</div>
-
-
-### Backend
-
-`C#`  
-`.NET / ASP.NET Core`  
-`Entity Framework Core`  
-`REST APIs`  
-`SignalR`  
-
-
-### Architecture
-
-`Clean Architecture`  
-`SOLID Principles`  
-`JWT Authentication`  
-`Role-Based Access Control`  
-
-
-### Tools
-
-`Git`  
-`GitHub Actions`  
-`Docker`  
-`CI/CD`  
-
-
----
-
-# 🚀 Featured Projects
-
-
-## 🦷 DentalClinic
-
-### Open Source Healthcare Management Platform
-
-A full-stack dental clinic platform built with ASP.NET Core.
-
-Features:
-
-- Patient management
-- Appointment system
-- Admin dashboard
-- AI assistant integration
-- Multi-language architecture
-
-Stack:
-
-`C#` `ASP.NET Core` `EF Core` `SQL Server` `AI`
-
-🔗 https://github.com/ViolettaNcl/DentalClinic
-
-
----
-
-## 🗺️ Smart Route Planner
-
-### AI Route Optimization Application
-
-An intelligent platform focused on route planning and optimization.
-
-Stack:
-
-`AI` `Algorithms` `Web Technologies`
-
-🔗 https://github.com/ViolettaNcl/smart-route-planner
-
-
----
-
-## 🚗 FleetManagement
-
-### Business Fleet Management System
-
-Desktop application for managing fleet operations.
-
-Stack:
-
-`C#` `.NET` `SQL Server`
-
-🔗 https://github.com/ViolettaNcl/FleetManagement
-
-
----
-
-# 🎯 Current Focus
-
+I build production-oriented software with **C#, ASP.NET Core, Entity Framework Core and SQL Server**, with additional experience in real-time systems, AI integrations, CI/CD and Docker.
 
 ```text
-AI-powered applications
-Healthcare technology
-Scalable backend systems
-Modern software architecture
+C# · ASP.NET Core · EF Core · SQL Server · REST APIs
+SignalR · JWT · Docker · GitHub Actions · JavaScript
 ```
 
+---
+
+## Selected Projects
+
+### DentalClinic
+
+Full-stack healthcare platform with patient booking, administration,
+authentication, real-time notifications and AI-assisted features.
+
+`ASP.NET Core` `EF Core` `SQL Server` `SignalR` `AI`
+
+[Repository](https://github.com/ViolettaNcl/DentalClinic) ·
+[Live App](https://dental-clinic-vn.vercel.app/)
 
 ---
 
-# 📊 GitHub Activity
+### Smart Route Planner
 
+Intelligent route-planning system combining routing algorithms,
+machine learning, maps and external geospatial services.
+
+`Machine Learning` `Routing` `MapLibre` `Docker` `CI/CD`
+
+[Repository](https://github.com/ViolettaNcl/smart-route-planner)
+
+---
+
+### FleetManagement
+
+Desktop fleet-management system for vehicles, drivers,
+routes and business operations.
+
+`C#` `WPF` `.NET Framework` `EF6` `SQL Server`
+
+[Repository](https://github.com/ViolettaNcl/FleetManagement)
+
+---
+
+## Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ViolettaNcl&show_icons=true&hide_border=true&theme=transparent" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git,github,linux,html,css,js&perline=10"/>
 
 </div>
 
-
 ---
-
-# 🐍 Contributions
-
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ViolettaNcl/ViolettaNcl/output/github-contribution-grid-snake.svg" />
+<img
+  width="55%"
+  src="https://github-readme-stats.vercel.app/api?username=ViolettaNcl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_title=true"
+  alt="GitHub statistics"
+/>
 
-</div>
-
-
----
-
-# 📫 Contact
-
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/ViolettaNcl">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-ViolettaNcl-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ViolettaNcl/violetta-cv">
-<img src="https://img.shields.io/badge/CV-Portfolio-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/View_CV-1F6FEB?style=for-the-badge"/>
 </a>
 
-</div>
+<br/><br/>
 
-
----
-
-<div align="center">
-
-### Building software. Solving real problems. Creating products.
+<sub>Backend engineering · System design · Applied AI</sub>
 
 </div>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:1F6FEB&height=75&section=footer"
+/>
