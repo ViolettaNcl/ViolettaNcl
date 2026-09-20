@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="36" viewBox="0 0 126 36" role="img" aria-label="Live Demo">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#8B5CF6"/><stop offset="1" stop-color="#6366F1"/></linearGradient></defs>
+  <rect x="0.75" y="0.75" width="124.5" height="34.5" rx="10" fill="url(#g)" stroke="#C4B5FD" stroke-opacity="0.34" stroke-width="1.5"/>
+  <circle cx="19" cy="18" r="6" fill="none" stroke="#F5F3FF" stroke-width="1.4"/>
+  <path d="M13.5 18h11M19 12.5c2 2.3 2 8.7 0 11M19 12.5c-2 2.3-2 8.7 0 11" stroke="#F5F3FF" stroke-width="1.15" stroke-linecap="round"/>
+  <text x="35" y="22.5" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="700">Live Demo</text>
+</svg>

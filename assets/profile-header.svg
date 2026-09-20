@@ -1,0 +1,102 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Violet Nicolaou — Full-Stack .NET Developer</title>
+  <desc id="desc">Dark purple engineering profile header with subtle animated grid, glow and data-flow particles.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09090F"/>
+      <stop offset="0.55" stop-color="#11111A"/>
+      <stop offset="1" stop-color="#0D0B18"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="155" y1="0" x2="1045" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="0.48" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(850 42) rotate(145) scale(360 190)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#C4B5FD" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+
+    <filter id="blur" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+
+    <filter id="softGlow" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <clipPath id="round">
+      <rect x="1" y="1" width="1198" height="278" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <rect width="1200" height="280" fill="url(#grid)" opacity="0.95">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="42 0" dur="18s" repeatCount="indefinite"/>
+    </rect>
+
+    <ellipse cx="850" cy="42" rx="340" ry="178" fill="url(#glow)" filter="url(#blur)">
+      <animate attributeName="cx" values="760;900;760" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="25;65;25" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <path d="M80 216 C260 176, 350 236, 520 196 S820 156, 1120 202" stroke="url(#accent)" stroke-opacity="0.18" stroke-width="1.4" fill="none"/>
+    <path d="M80 229 C285 191, 407 246, 586 207 S862 176, 1125 215" stroke="#C4B5FD" stroke-opacity="0.07" stroke-width="1" fill="none"/>
+
+    <g filter="url(#softGlow)">
+      <circle cx="225" cy="206" r="2.4" fill="#C4B5FD" opacity="0.55">
+        <animate attributeName="cx" values="225;505;790;1080" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="206;196;166;200" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.75;0.35;0" dur="10s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="720" cy="178" r="2" fill="#8B5CF6" opacity="0.65">
+        <animate attributeName="cx" values="720;880;1085;720" dur="13s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="178;160;202;178" dur="13s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="980" cy="72" r="2.6" fill="#A855F7" opacity="0.42">
+        <animate attributeName="cy" values="72;116;72" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.18;0.72;0.18" dur="6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <rect x="78" y="54" width="4" height="110" rx="2" fill="url(#accent)" opacity="0.95"/>
+    <rect x="96" y="54" width="86" height="2" rx="1" fill="url(#accent)" opacity="0.8"/>
+
+    <text x="104" y="104" fill="#F5F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="720" letter-spacing="5">VIOLET NICOLAOU</text>
+    <text x="107" y="143" fill="#C4B5FD" font-family="JetBrains Mono,Consolas,monospace" font-size="19" font-weight="600" letter-spacing="2.2">FULL-STACK .NET DEVELOPER</text>
+    <text x="107" y="178" fill="#A1A1AA" font-family="JetBrains Mono,Consolas,monospace" font-size="15" letter-spacing="1.25">ASP.NET CORE  /  BACKEND SYSTEMS  /  REAL-TIME  /  APPLIED AI</text>
+
+    <g transform="translate(104 220)">
+      <rect width="308" height="30" rx="15" fill="#181825" stroke="#27272A"/>
+      <circle cx="17" cy="15" r="4" fill="#8B5CF6">
+        <animate attributeName="opacity" values="0.35;1;0.35" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="31" y="20" fill="#A1A1AA" font-family="JetBrains Mono,Consolas,monospace" font-size="12.5" letter-spacing="0.7">C#  ·  APIs  ·  DATA  ·  DELIVERY</text>
+    </g>
+
+    <g opacity="0.72" transform="translate(1000 84)">
+      <rect x="0" y="0" width="108" height="94" rx="16" fill="#11111A" stroke="#27272A"/>
+      <path d="M21 28H87M21 47H70M21 66H80" stroke="#C4B5FD" stroke-opacity="0.32" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="88" cy="47" r="4" fill="#8B5CF6"/>
+      <circle cx="81" cy="66" r="3" fill="#6366F1"/>
+      <path d="M88 47C96 47 98 55 98 61" stroke="#A855F7" stroke-opacity="0.6" stroke-width="1.5" stroke-linecap="round">
+        <animate attributeName="stroke-opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <rect x="72" y="262" width="1056" height="2" rx="1" fill="url(#accent)" opacity="0.45">
+      <animate attributeName="opacity" values="0.22;0.7;0.22" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="278" rx="26" stroke="#27272A" stroke-width="2"/>
+</svg>

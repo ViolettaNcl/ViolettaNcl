@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="38" viewBox="0 0 176 38" role="img" aria-label="View Full Resume">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#8B5CF6"/><stop offset="0.58" stop-color="#A855F7"/><stop offset="1" stop-color="#6366F1"/></linearGradient></defs>
+  <rect x="0.75" y="0.75" width="174.5" height="36.5" rx="11" fill="url(#g)" stroke="#C4B5FD" stroke-opacity="0.42" stroke-width="1.5"/>
+  <path d="M20 11h8l4 4v12H20z" fill="none" stroke="#FFFFFF" stroke-width="1.4" stroke-linejoin="round"/>
+  <path d="M28 11v4h4M23.5 20h5M23.5 23.5h5" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round"/>
+  <text x="43" y="23.5" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="720">View Full Resume</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="36" viewBox="0 0 146 36" role="img" aria-label="View Repository">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#181825"/><stop offset="1" stop-color="#11111A"/></linearGradient></defs>
+  <rect x="0.75" y="0.75" width="144.5" height="34.5" rx="10" fill="url(#g)" stroke="#8B5CF6" stroke-opacity="0.72" stroke-width="1.5"/>
+  <path d="M18 11.5h5.2l2.3 2.3H32a2 2 0 0 1 2 2v7.7a2 2 0 0 1-2 2H18a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2Z" fill="none" stroke="#C4B5FD" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="43" y="22.5" fill="#F5F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="650">Repository</text>
+</svg>
