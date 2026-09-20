@@ -1,5 +1,5 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Violet Nicolaou — Full-Stack .NET Developer</title>
+  <title id="title">Виолетта Николау — Full-Stack .NET разработчик</title>
   <desc id="desc">Premium dark-purple engineering header with animated data flow, grid, glow and system nodes.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300">
@@ -77,16 +77,16 @@
     <!-- title block -->
     <rect x="78" y="54" width="4" height="124" rx="2" fill="url(#accent)"/>
     <rect x="96" y="54" width="94" height="2" rx="1" fill="url(#accent)" opacity=".9"/>
-    <text x="104" y="108" fill="#F5F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="720" letter-spacing="4.6">VIOLET NICOLAOU</text>
-    <text x="107" y="148" fill="#C4B5FD" font-family="JetBrains Mono,Consolas,monospace" font-size="19" font-weight="650" letter-spacing="2">FULL-STACK .NET DEVELOPER</text>
-    <text x="107" y="183" fill="#A1A1AA" font-family="JetBrains Mono,Consolas,monospace" font-size="15" letter-spacing="1.15">ASP.NET CORE  /  BACKEND SYSTEMS  /  REAL-TIME  /  APPLIED AI</text>
+    <text x="104" y="108" fill="#F5F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="720" letter-spacing="4.6">ВИОЛЕТТА НИКОЛАУ</text>
+    <text x="107" y="148" fill="#C4B5FD" font-family="JetBrains Mono,Consolas,monospace" font-size="19" font-weight="650" letter-spacing="2">FULL-STACK .NET РАЗРАБОТЧИК</text>
+    <text x="107" y="183" fill="#A1A1AA" font-family="JetBrains Mono,Consolas,monospace" font-size="15" letter-spacing="1.15">ASP.NET CORE  /  BACKEND  /  REAL-TIME  /  APPLIED AI</text>
 
     <g transform="translate(104 226)">
       <rect width="316" height="32" rx="16" fill="#181825" stroke="#30303A"/>
       <circle cx="18" cy="16" r="4" fill="#8B5CF6" filter="url(#softGlow)">
         <animate attributeName="opacity" values=".35;1;.35" dur="2.6s" repeatCount="indefinite"/>
       </circle>
-      <text x="32" y="21" fill="#B8B8C7" font-family="JetBrains Mono,Consolas,monospace" font-size="12.5" letter-spacing=".65">C#  ·  APIs  ·  DATA  ·  DELIVERY</text>
+      <text x="32" y="21" fill="#B8B8C7" font-family="JetBrains Mono,Consolas,monospace" font-size="12.5" letter-spacing=".65">C#  ·  API  ·  DATA  ·  DELIVERY</text>
     </g>
 
     <!-- mini terminal / system diagram -->

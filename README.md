@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="./README.md"><img src="./assets/button-language-en-active.svg" height="30" alt="English" /></a>&nbsp;
+  <a href="./README.ru.md"><img src="./assets/button-language-ru.svg" height="30" alt="Русский" /></a>
+</p>
+
 <div align="center">
   <img src="./assets/profile-header.svg" width="100%" alt="Violet Nicolaou — Full-Stack .NET Developer" />
 </div>
@@ -10,7 +15,9 @@
   <code>C#</code>&nbsp; · &nbsp;<code>ASP.NET Core</code>&nbsp; · &nbsp;<code>Entity Framework Core</code>&nbsp; · &nbsp;<code>SQL Server</code>&nbsp; · &nbsp;<code>PostgreSQL</code>&nbsp; · &nbsp;<code>JavaScript / TypeScript</code>&nbsp; · &nbsp;<code>Docker</code>&nbsp; · &nbsp;<code>GitHub Actions</code>
 </p>
 
----
+<div align="center">
+  <img src="./assets/engineering-pulse.svg" width="100%" alt="Engineering workflow: API, data, real-time, tests, delivery" />
+</div>
 
 ## Selected Engineering Work
 

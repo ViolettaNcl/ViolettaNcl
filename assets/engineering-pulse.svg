@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76">
+  <defs>
+    <linearGradient id="g" x1="70" y1="0" x2="1130" y2="0">
+      <stop stop-color="#6366F1"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="74" rx="18" fill="#0D0D14" stroke="#27272A"/>
+  <path d="M70 38H1130" stroke="#3F3F46" stroke-width="1"/>
+  <path d="M70 38H1130" stroke="url(#g)" stroke-width="1.6" stroke-dasharray="8 14">
+    <animate attributeName="stroke-dashoffset" values="0;-88" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="JetBrains Mono,Consolas,monospace" font-size="11" fill="#A1A1AA" text-anchor="middle">
+    <text x="180" y="64">API</text><text x="390" y="64">DATA</text><text x="600" y="64">REAL-TIME</text><text x="810" y="64">TESTS</text><text x="1020" y="64">DELIVERY</text>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="180" cy="38" r="5" fill="#6366F1"><animate attributeName="r" values="4;6;4" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="390" cy="38" r="5" fill="#7C3AED"><animate attributeName="opacity" values=".35;1;.35" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="38" r="5" fill="#8B5CF6"><animate attributeName="r" values="4;6;4" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="810" cy="38" r="5" fill="#9333EA"><animate attributeName="opacity" values=".35;1;.35" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1020" cy="38" r="5" fill="#A855F7"><animate attributeName="r" values="4;6;4" dur="3.1s" repeatCount="indefinite"/></circle>
+  </g>
+  <circle r="3" fill="#F5F3FF" filter="url(#glow)">
+    <animateMotion path="M70 38H1130" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
