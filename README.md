@@ -4,107 +4,83 @@
 
 ### Full-Stack Software Engineer
 
-**C# | ASP.NET Core | Cloud | AI-powered Applications**
+<img src="https://img.shields.io/badge/C%23-Developer-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Integration-4285F4?style=for-the-badge&logo=openai&logoColor=white"/>
 
-Designing and building scalable software systems with modern backend architecture.
+<br/>
+
+Building scalable software systems, healthcare platforms and AI-powered applications.
 
 </div>
 
----
-
-## Profile
-
-Full-Stack Software Engineer specializing in backend development,
-application architecture, and intelligent software solutions.
-
-Focused on building reliable systems with:
-
-- scalable APIs
-- clean architecture
-- secure authentication
-- database-driven applications
-- AI integrations
-
-I enjoy taking products from concept to production — designing,
-developing, testing, and improving real-world applications.
 
 ---
 
-## Engineering Stack
+## 👨‍💻 About Me
 
-### Backend
-```
-C#
-.NET
-ASP.NET Core
-Entity Framework Core
-REST APIs
-SignalR
-```
+Full-Stack Software Engineer focused on:
 
-### Data
-```
-SQL Server
-PostgreSQL
-Database Design
-Query Optimization
-```
+- Backend architecture
+- Enterprise applications
+- Healthcare technology
+- AI-powered solutions
+- Secure and scalable systems
 
-### Architecture & Security
-```
-Clean Architecture
-SOLID Principles
-JWT Authentication
-Role-Based Access Control
-API Security
-```
 
-### DevOps & Tools
-```
-Git
-GitHub Actions
-Docker
-CI/CD
-Testing
-```
+I build complete products — from database architecture and APIs
+to user experience, automation and deployment.
+
 
 ---
 
-# Selected Projects
+# 🛠 Tech Stack
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,postgres,docker,git,github,linux,html,css,js" />
+
+</div>
+
+
+---
+
+# 🚀 Featured Projects
+
 
 ## 🦷 DentalClinic
 
 **Open Source Healthcare Management Platform**
 
-A full-stack dental clinic platform built with ASP.NET Core.
+A production-oriented dental clinic system built with ASP.NET Core.
 
-Highlights:
-- Patient management
-- Appointment workflows
-- Administrative dashboard
-- AI assistant integration
-- Multi-language architecture
+✨ Patient Management  
+✨ Appointment System  
+✨ Admin Dashboard  
+✨ AI Assistant  
+✨ Multi-language Architecture  
 
-Stack:
+Tech:
+
 `C#` `ASP.NET Core` `EF Core` `SQL Server` `AI`
 
-Repository:
-https://github.com/ViolettaNcl/DentalClinic
+🔗 https://github.com/ViolettaNcl/DentalClinic
 
 
 ---
 
 ## 🗺️ Smart Route Planner
 
-**Intelligent Route Optimization Application**
+**AI Route Optimization Platform**
 
-A platform focused on route planning and optimization algorithms.
+Intelligent route planning and optimization solution.
 
-Stack:
+Tech:
+
 `AI` `Algorithms` `Web Technologies`
 
-Repository:
-https://github.com/ViolettaNcl/smart-route-planner
+🔗 https://github.com/ViolettaNcl/smart-route-planner
 
 
 ---
@@ -113,42 +89,75 @@ https://github.com/ViolettaNcl/smart-route-planner
 
 **Business Management Application**
 
-A desktop system designed for fleet operations and workflow management.
+Desktop fleet management solution.
 
-Stack:
+Tech:
+
 `C#` `.NET` `SQL Server`
 
-Repository:
-https://github.com/ViolettaNcl/FleetManagement
+🔗 https://github.com/ViolettaNcl/FleetManagement
 
 
 ---
 
-# Current Focus
+# 🧩 Engineering Principles
 
-Currently exploring and building:
+```text
+Clean Architecture
+SOLID Principles
+Secure by Design
+API First Development
+Continuous Improvement
+```
 
-- AI-powered software systems
-- Healthcare technology solutions
-- Scalable backend architectures
-- Automation platforms
+---
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViolettaNcl&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViolettaNcl&layout=compact&theme=transparent"/>
+
+</div>
 
 
 ---
 
-# Professional Links
+# 🎯 Current Focus
 
-GitHub:
-https://github.com/ViolettaNcl
+Currently building:
 
-CV:
-https://github.com/ViolettaNcl/violetta-cv
+🚀 AI-powered applications  
+🏥 Healthcare software platforms  
+⚙️ Scalable backend systems  
+🤖 Intelligent automation solutions  
+
+
+---
+
+# 📫 Contact
+
+
+<div align="center">
+
+<a href="https://github.com/ViolettaNcl">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/ViolettaNcl/violetta-cv">
+<img src="https://img.shields.io/badge/CV-Portfolio-blue?style=for-the-badge"/>
+</a>
+
+</div>
 
 
 ---
 
 <div align="center">
 
-Building reliable software through clean architecture and continuous improvement.
+⭐ Building software that solves real problems.
 
 </div>
