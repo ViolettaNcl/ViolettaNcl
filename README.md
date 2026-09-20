@@ -1,111 +1,73 @@
 <div align="center">
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:1F6FEB&height=160&section=header&text=Violet%20Nicolaou&fontSize=38&fontColor=F0F6FC&fontAlignY=35&animation=fadeIn"
-/>
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Backend+Engineering+%7C+AI+Solutions;Building+software+for+real-world+problems"
-    alt="Typing animation"
-  />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-
+  <img src="./assets/profile-header.svg" width="100%" alt="Violet Nicolaou — Full-Stack .NET Developer" />
 </div>
 
-## About
+<p align="center">
+  Backend-focused full-stack developer building applications with relational data, real-time features, external APIs, automated testing and production delivery.
+</p>
 
-Full-Stack .NET Developer focused on **backend engineering, scalable applications and clean system design**.
-
-I build production-oriented software with **C#, ASP.NET Core, Entity Framework Core and SQL Server**, with additional experience in real-time systems, AI integrations, CI/CD and Docker.
-
-```text
-C# · ASP.NET Core · EF Core · SQL Server · REST APIs
-SignalR · JWT · Docker · GitHub Actions · JavaScript
-```
+<p align="center">
+  <code>C#</code>&nbsp; · &nbsp;<code>ASP.NET Core</code>&nbsp; · &nbsp;<code>Entity Framework Core</code>&nbsp; · &nbsp;<code>SQL Server</code>&nbsp; · &nbsp;<code>PostgreSQL</code>&nbsp; · &nbsp;<code>JavaScript / TypeScript</code>&nbsp; · &nbsp;<code>Docker</code>&nbsp; · &nbsp;<code>GitHub Actions</code>
+</p>
 
 ---
 
-## Selected Projects
+## Selected Engineering Work
 
-### DentalClinic
+### 01 — DentalClinic
+<sub>PRIMARY PROJECT · FULL-STACK WEB PLATFORM</sub>
 
-Full-stack healthcare platform with patient booking, administration,
-authentication, real-time notifications and AI-assisted features.
+ASP.NET Core dental-clinic platform covering public booking, patient/admin workflows, real-time updates and AI-assisted support.
 
-`ASP.NET Core` `EF Core` `SQL Server` `SignalR` `AI`
+- Layered REST backend with **EF Core + SQL Server**, migrations, indexing and relational data modelling.
+- **JWT + BCrypt** authentication for patient/admin roles, plus rate limiting, CORS and centralized error handling.
+- **SignalR** notifications and background jobs for appointment/reminder and stale-request workflows.
+- **Gemini** chat/translation and **ElevenLabs** TTS integrations with explicit secret-handling boundaries.
+- **xUnit**, GitHub Actions, CodeQL and Docker-based deployment tooling.
 
-[Repository](https://github.com/ViolettaNcl/DentalClinic) ·
-[Live App](https://dental-clinic-vn.vercel.app/)
+`ASP.NET Core 10` `EF Core 10` `SQL Server` `SignalR` `JWT` `Docker`
 
----
-
-### Smart Route Planner
-
-Intelligent route-planning system combining routing algorithms,
-machine learning, maps and external geospatial services.
-
-`Machine Learning` `Routing` `MapLibre` `Docker` `CI/CD`
-
-[Repository](https://github.com/ViolettaNcl/smart-route-planner)
+<a href="https://github.com/ViolettaNcl/DentalClinic"><img src="./assets/button-repository.svg" height="34" alt="View Repository" /></a>&nbsp;&nbsp;<a href="https://dental-clinic-vn.vercel.app/"><img src="./assets/button-live.svg" height="34" alt="Live Demo" /></a>
 
 ---
 
-### FleetManagement
+### 02 — FleetManagement
+<sub>DESKTOP BUSINESS APPLICATION</sub>
 
-Desktop fleet-management system for vehicles, drivers,
-routes and business operations.
+Windows fleet-management application for drivers, vehicles, routes and role-aware operational workflows.
 
-`C#` `WPF` `.NET Framework` `EF6` `SQL Server`
+- **C# / WPF** desktop application targeting **.NET Framework 4.7.2**.
+- **Entity Framework 6 + SQL Server** persistence with a relational fleet model.
+- Dedicated authentication, driver, route and vehicle service layers with admin/client navigation paths.
+- **MSTest** coverage for core service logic.
 
-[Repository](https://github.com/ViolettaNcl/FleetManagement)
+`C#` `WPF` `.NET Framework 4.7.2` `EF6` `SQL Server` `MSTest`
+
+<a href="https://github.com/ViolettaNcl/FleetManagement"><img src="./assets/button-repository.svg" height="34" alt="View Repository" /></a>
 
 ---
 
-## Stack
+### 03 — Smart Route Planner
+<sub>GEOSPATIAL · ALGORITHMS · ML</sub>
 
-<div align="center">
+Map-first route planner combining real-road routing, optimization algorithms, custom machine learning and resilient external-service integrations.
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git,github,linux,html,css,js&perline=10"/>
+- **OSRM** road routing with caching/failover plus Haversine, Nearest Neighbor and **2-opt** fallbacks/optimization.
+- From-scratch **MLP + backpropagation**, softmax classification and **K-Means** day-plan clustering in PHP.
+- **MapLibre GL JS + OpenFreeMap**, Overpass POI data and Open-Meteo weather integration.
+- Unit/HTTP tests, **Playwright** product flows, multi-version PHP CI, production smoke checks and automated Docker builds.
 
-</div>
+`PHP 8.3` `MapLibre GL JS` `OSRM` `ML` `Playwright` `Docker`
+
+<a href="https://github.com/ViolettaNcl/smart-route-planner"><img src="./assets/button-repository.svg" height="34" alt="View Repository" /></a>&nbsp;&nbsp;<a href="https://smart-route-planner-vn.vercel.app/"><img src="./assets/button-live.svg" height="34" alt="Live Demo" /></a>
 
 ---
 
 <div align="center">
-
-<img
-  width="55%"
-  src="https://github-readme-stats.vercel.app/api?username=ViolettaNcl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_title=true"
-  alt="GitHub statistics"
-/>
-
-<br/><br/>
-
-<a href="https://github.com/ViolettaNcl">
-  <img src="https://img.shields.io/badge/GitHub-ViolettaNcl-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ViolettaNcl/violetta-cv">
-  <img src="https://img.shields.io/badge/View_CV-1F6FEB?style=for-the-badge"/>
-</a>
-
-<br/><br/>
-
-<sub>Backend engineering · System design · Applied AI</sub>
-
+  <strong>Resume</strong><br/>
+  <sub>Full background, education, languages and contact details.</sub>
+  <br/><br/>
+  <a href="https://violetta-cv.vercel.app"><img src="./assets/button-resume.svg" height="38" alt="View Full Resume" /></a>
+  <br/><br/>
+  <sub>C# · APIs · Data · Delivery</sub>
 </div>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:1F6FEB&height=75&section=footer"
-/>
