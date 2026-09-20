@@ -2,162 +2,71 @@
 
 # Violet Nicolaou
 
-### Full-Stack Software Engineer
+### Full-Stack .NET Developer
 
-<img src="https://img.shields.io/badge/C%23-Developer-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-Integration-4285F4?style=for-the-badge&logo=openai&logoColor=white"/>
+**C# • ASP.NET Core • SQL Server • AI Solutions**
+
+Building production-ready applications and scalable backend systems.
 
 <br/>
 
-Building scalable software systems, healthcare platforms and AI-powered applications.
+[![GitHub](https://img.shields.io/badge/GitHub-ViolettaNcl-181717?style=for-the-badge&logo=github)](https://github.com/ViolettaNcl)
+[![CV](https://img.shields.io/badge/CV-Portfolio-0A66C2?style=for-the-badge)](https://github.com/ViolettaNcl/violetta-cv)
 
 </div>
 
+---
+
+## About
+
+Full-Stack .NET Developer focused on backend engineering, business applications,
+healthcare platforms and AI-powered solutions.
 
 ---
 
-## 👨‍💻 About Me
-
-Full-Stack Software Engineer focused on:
-
-- Backend architecture
-- Enterprise applications
-- Healthcare technology
-- AI-powered solutions
-- Secure and scalable systems
-
-
-I build complete products — from database architecture and APIs
-to user experience, automation and deployment.
-
-
----
-
-# 🛠 Tech Stack
-
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,postgres,docker,git,github,linux,html,css,js" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git,github,linux,html,css,js" />
 
 </div>
 
+**Core stack:** ASP.NET Core, Entity Framework Core, SQL Server, REST APIs, Clean Architecture
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-
-## 🦷 DentalClinic
-
-**Open Source Healthcare Management Platform**
-
-A production-oriented dental clinic system built with ASP.NET Core.
-
-✨ Patient Management  
-✨ Appointment System  
-✨ Admin Dashboard  
-✨ AI Assistant  
-✨ Multi-language Architecture  
-
-Tech:
-
-`C#` `ASP.NET Core` `EF Core` `SQL Server` `AI`
+### DentalClinic
+Open-source dental clinic management platform built with ASP.NET Core.
 
 🔗 https://github.com/ViolettaNcl/DentalClinic
 
-
----
-
-## 🗺️ Smart Route Planner
-
-**AI Route Optimization Platform**
-
-Intelligent route planning and optimization solution.
-
-Tech:
-
-`AI` `Algorithms` `Web Technologies`
+### Smart Route Planner
+AI-powered route optimization application.
 
 🔗 https://github.com/ViolettaNcl/smart-route-planner
 
-
----
-
-## 🚗 FleetManagement
-
-**Business Management Application**
-
-Desktop fleet management solution.
-
-Tech:
-
-`C#` `.NET` `SQL Server`
+### FleetManagement
+Business fleet management system built with C# and SQL Server.
 
 🔗 https://github.com/ViolettaNcl/FleetManagement
 
+---
+
+## Current Focus
+
+- Scalable backend systems
+- AI-powered applications
+- Healthcare technology
 
 ---
 
-# 🧩 Engineering Principles
+## Links
 
-```text
-Clean Architecture
-SOLID Principles
-Secure by Design
-API First Development
-Continuous Improvement
-```
+**GitHub**  
+https://github.com/ViolettaNcl
 
----
-
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViolettaNcl&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViolettaNcl&layout=compact&theme=transparent"/>
-
-</div>
-
-
----
-
-# 🎯 Current Focus
-
-Currently building:
-
-🚀 AI-powered applications  
-🏥 Healthcare software platforms  
-⚙️ Scalable backend systems  
-🤖 Intelligent automation solutions  
-
-
----
-
-# 📫 Contact
-
-
-<div align="center">
-
-<a href="https://github.com/ViolettaNcl">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/ViolettaNcl/violetta-cv">
-<img src="https://img.shields.io/badge/CV-Portfolio-blue?style=for-the-badge"/>
-</a>
-
-</div>
-
-
----
-
-<div align="center">
-
-⭐ Building software that solves real problems.
-
-</div>
+**CV**  
+https://github.com/ViolettaNcl/violetta-cv
