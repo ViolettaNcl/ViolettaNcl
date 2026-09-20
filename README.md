@@ -2,211 +2,153 @@
 
 # Violet Nicolaou
 
-### Full-Stack .NET Developer | C# | ASP.NET Core | AI Engineering
+### Full-Stack Software Engineer
 
-Building scalable, secure and production-ready software solutions.
+**C# | ASP.NET Core | Cloud | AI-powered Applications**
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/ViolettaNcl?style=flat&logo=github)](https://github.com/ViolettaNcl)
-[![GitHub stars](https://img.shields.io/github/stars/ViolettaNcl?style=flat&logo=github)](https://github.com/ViolettaNcl)
-[![Profile Views](https://komarev.com/ghpvc/?username=ViolettaNcl&color=blue)](https://github.com/ViolettaNcl)
+Designing and building scalable software systems with modern backend architecture.
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## Profile
 
-I am a Full-Stack Developer focused on designing and building modern software systems.
+Full-Stack Software Engineer specializing in backend development,
+application architecture, and intelligent software solutions.
 
-My experience includes developing:
+Focused on building reliable systems with:
 
-- Enterprise web applications
-- Healthcare platforms
-- Business management systems
-- AI-powered applications
-- Secure backend architectures
+- scalable APIs
+- clean architecture
+- secure authentication
+- database-driven applications
+- AI integrations
 
-I enjoy building complete products — from database design and backend architecture to user experience, testing and deployment.
+I enjoy taking products from concept to production — designing,
+developing, testing, and improving real-world applications.
 
 ---
 
-# 🚀 Featured Projects
+## Engineering Stack
+
+### Backend
+```
+C#
+.NET
+ASP.NET Core
+Entity Framework Core
+REST APIs
+SignalR
+```
+
+### Data
+```
+SQL Server
+PostgreSQL
+Database Design
+Query Optimization
+```
+
+### Architecture & Security
+```
+Clean Architecture
+SOLID Principles
+JWT Authentication
+Role-Based Access Control
+API Security
+```
+
+### DevOps & Tools
+```
+Git
+GitHub Actions
+Docker
+CI/CD
+Testing
+```
+
+---
+
+# Selected Projects
 
 ## 🦷 DentalClinic
 
-### Open Source Dental Clinic Management Platform
+**Open Source Healthcare Management Platform**
 
-A full-stack healthcare platform designed for modern dental clinics.
+A full-stack dental clinic platform built with ASP.NET Core.
 
-Features:
-
+Highlights:
 - Patient management
-- Appointment scheduling
-- Admin dashboard
+- Appointment workflows
+- Administrative dashboard
 - AI assistant integration
-- Multi-language interface
-- Secure authentication
-- Responsive design
+- Multi-language architecture
 
-Technology:
-
-`C#` `ASP.NET Core` `Entity Framework Core`  
-`SQL Server` `SignalR` `AI APIs`
+Stack:
+`C#` `ASP.NET Core` `EF Core` `SQL Server` `AI`
 
 Repository:
-
-🔗 https://github.com/ViolettaNcl/DentalClinic
+https://github.com/ViolettaNcl/DentalClinic
 
 
 ---
 
 ## 🗺️ Smart Route Planner
 
-### AI-Powered Route Optimization Application
+**Intelligent Route Optimization Application**
 
-A smart application focused on intelligent route planning and optimization.
+A platform focused on route planning and optimization algorithms.
 
-Features:
-
-- Route calculation
-- Optimization logic
-- Modern web interface
-
-Technology:
-
+Stack:
 `AI` `Algorithms` `Web Technologies`
 
 Repository:
-
-🔗 https://github.com/ViolettaNcl/smart-route-planner
+https://github.com/ViolettaNcl/smart-route-planner
 
 
 ---
 
 ## 🚗 FleetManagement
 
-### Business Fleet Management System
+**Business Management Application**
 
-A desktop application for managing fleet operations and business workflows.
+A desktop system designed for fleet operations and workflow management.
 
-Features:
-
-- Vehicle management
-- Data management
-- Business logic automation
-
-Technology:
-
+Stack:
 `C#` `.NET` `SQL Server`
 
 Repository:
-
-🔗 https://github.com/ViolettaNcl/FleetManagement
-
-
----
-
-# 🛠 Technical Skills
-
-## Backend
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-- C#
-- ASP.NET Core
-- REST APIs
-- Entity Framework Core
-- Background Services
-- Authentication & Authorization
-
-
-## Databases
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-- SQL Server
-- Database Design
-- Migrations
-- Query Optimization
-
-
-## Architecture & Security
-
-- Clean Architecture
-- SOLID Principles
-- JWT Authentication
-- Role-Based Access Control
-- Secure API Design
-
-
-## AI & Automation
-
-- AI API Integration
-- AI Assistants
-- Intelligent workflows
-- Automation systems
-
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-- Git
-- GitHub Actions
-- Docker
-- CI/CD
-- Testing
+https://github.com/ViolettaNcl/FleetManagement
 
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
-Currently working on:
+Currently exploring and building:
 
-- AI-powered software solutions
-- Healthcare technology platforms
-- Scalable backend systems
-- Modern application architecture
-
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ViolettaNcl&show_icons=true&theme=transparent" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViolettaNcl&layout=compact&theme=transparent" height="170"/>
-
-</div>
+- AI-powered software systems
+- Healthcare technology solutions
+- Scalable backend architectures
+- Automation platforms
 
 
 ---
 
-# 📫 Contact
+# Professional Links
 
 GitHub:
-
-🔗 https://github.com/ViolettaNcl
-
+https://github.com/ViolettaNcl
 
 CV:
-
-🔗 https://github.com/ViolettaNcl/violetta-cv
+https://github.com/ViolettaNcl/violetta-cv
 
 
 ---
 
 <div align="center">
 
-### Building software. Solving problems. Creating products.
+Building reliable software through clean architecture and continuous improvement.
 
 </div>
