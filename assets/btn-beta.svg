@@ -1,0 +1,6 @@
+<svg width="163" height="42" viewBox="0 0 163 42" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Try the beta">
+  <defs></defs>
+  <rect x="1" y="1" width="161" height="40" rx="12" fill="#0e0c1c"/><rect x="1" y="1" width="161" height="40" rx="12" stroke="#ff5cc8" stroke-opacity=".55"/>
+  <g transform="translate(18 15)" color="#ff5cc8" style="color:#ff5cc8"><path d="M6 0 L7.6 4.2 L12 4.5 L8.6 7.3 L9.7 11.6 L6 9.2 L2.3 11.6 L3.4 7.3 L0 4.5 L4.4 4.2 Z" fill="currentColor"/></g>
+  <text x="40" y="26" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#f2f0ff">Try the beta</text>
+</svg>

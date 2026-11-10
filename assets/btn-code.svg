@@ -1,0 +1,6 @@
+<svg width="96" height="42" viewBox="0 0 96 42" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Code">
+  <defs></defs>
+  <rect x="1" y="1" width="94" height="40" rx="12" fill="#0e0c1c"/><rect x="1" y="1" width="94" height="40" rx="12" stroke="#b9a8ff" stroke-opacity=".55"/>
+  <g transform="translate(18 15)" color="#b9a8ff" style="color:#b9a8ff"><path d="M4 1 L0 6 L4 11 M8 1 L12 6 L8 11" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="40" y="26" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#f2f0ff">Code</text>
+</svg>
