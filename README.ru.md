@@ -17,7 +17,7 @@
   <a href="https://t.me/Violet111"><img src="./assets/btn-tg-ru.svg" height="42" alt="Telegram" /></a>
 </p>
 
-<img src="./assets/stats-ru.svg" width="100%" alt="" />
+<a href="https://violetta-cv.vercel.app"><img src="./assets/stats-ru.svg" width="100%" alt="" /></a>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
