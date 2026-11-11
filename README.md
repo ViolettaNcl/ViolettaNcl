@@ -40,6 +40,7 @@
       <p>
         <a href="https://dental-clinic-vn.vercel.app"><img src="./assets/btn-live.svg" height="36" alt="Live demo" /></a>
         <a href="https://github.com/ViolettaNcl/DentalClinic"><img src="./assets/btn-code.svg" height="36" alt="Code" /></a>
+        <a href="https://github.com/ViolettaNcl/DentalClinic"><img src="https://img.shields.io/github/stars/ViolettaNcl/DentalClinic?style=for-the-badge&label=%E2%99%A5%20Like&color=ff5cc8&labelColor=1b1530" height="36" alt="Like" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -50,6 +51,7 @@
       <code>Kotlin</code> <code>Android</code> <code>Text-to-Speech</code> <code>RTL</code>
       <p>
         <a href="https://violettancl.github.io/bloom-beta/"><img src="./assets/btn-beta.svg" height="36" alt="Try the beta" /></a>
+        <a href="https://github.com/ViolettaNcl/bloom-beta"><img src="https://img.shields.io/github/stars/ViolettaNcl/bloom-beta?style=for-the-badge&label=%E2%99%A5%20Like&color=ff5cc8&labelColor=1b1530" height="36" alt="Like" /></a>
       </p>
     </td>
   </tr>
@@ -63,6 +65,7 @@
       <p>
         <a href="https://smart-route-planner-vn.vercel.app"><img src="./assets/btn-live.svg" height="36" alt="Live demo" /></a>
         <a href="https://github.com/ViolettaNcl/smart-route-planner"><img src="./assets/btn-code.svg" height="36" alt="Code" /></a>
+        <a href="https://github.com/ViolettaNcl/smart-route-planner"><img src="https://img.shields.io/github/stars/ViolettaNcl/smart-route-planner?style=for-the-badge&label=%E2%99%A5%20Like&color=ff5cc8&labelColor=1b1530" height="36" alt="Like" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -73,6 +76,7 @@
       <code>C#</code> <code>WPF</code> <code>EF6</code> <code>SQL Server</code> <code>MSTest</code>
       <p>
         <a href="https://github.com/ViolettaNcl/FleetManagement"><img src="./assets/btn-code.svg" height="36" alt="Code" /></a>
+        <a href="https://github.com/ViolettaNcl/FleetManagement"><img src="https://img.shields.io/github/stars/ViolettaNcl/FleetManagement?style=for-the-badge&label=%E2%99%A5%20Like&color=ff5cc8&labelColor=1b1530" height="36" alt="Like" /></a>
       </p>
     </td>
   </tr>
