@@ -3,7 +3,7 @@
   <a href="./README.ru.md"><img src="./assets/button-language-ru.svg" height="30" alt="Русский" /></a>
 </p>
 
-<a href="https://violetta-cv.vercel.app">
+<a href="https://violetta-cv.onrender.com">
   <img src="./assets/header.svg" width="100%" alt="Violetta Nicolaou — Full-Stack Developer: web apps, mobile apps and bots" />
 </a>
 
@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://dental-clinic-vn.vercel.app"><img src="./assets/card-dental.svg" width="100%" alt="DentalClinic" /></a>
+      <a href="https://dental-clinic-vjux.onrender.com/"><img src="./assets/card-dental.svg" width="100%" alt="DentalClinic" /></a>
       <h3>DentalClinic</h3>
       <sub>COMMERCIAL · WEB PLATFORM</sub>
       <p>Booking, patient portal, CRM/admin panel, booking bot and an AI consultant in 5 languages.</p>
@@ -57,13 +57,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://smart-route-planner-vn.vercel.app"><img src="./assets/card-route.svg" width="100%" alt="Smart Route Planner" /></a>
+      <a href="https://smart-route-planner-wiwk.onrender.com/"><img src="./assets/card-route.svg" width="100%" alt="Smart Route Planner" /></a>
       <h3>Smart Route Planner</h3>
       <sub>PWA · ALGORITHMS · ML</sub>
       <p>Multi-stop routes on real roads, 2-opt optimisation, and an MLP + K-Means written from scratch. 132 tests.</p>
       <code>PHP</code> <code>JavaScript</code> <code>OSRM</code> <code>MapLibre</code> <code>Playwright</code>
       <p>
-        <a href="https://smart-route-planner-vn.vercel.app"><img src="./assets/btn-live.svg" height="36" alt="Live demo" /></a>
+        <a href="https://smart-route-planner-wiwk.onrender.com/"><img src="./assets/btn-live.svg" height="36" alt="Live demo" /></a>
         <a href="https://github.com/ViolettaNcl/smart-route-planner"><img src="./assets/btn-code.svg" height="36" alt="Code" /></a>
         <a href="https://github.com/ViolettaNcl/smart-route-planner"><img src="https://img.shields.io/github/stars/ViolettaNcl/smart-route-planner?style=for-the-badge&label=%E2%99%A5%20Like&color=ff5cc8&labelColor=1b1530" height="36" alt="Like" /></a>
       </p>
@@ -92,4 +92,4 @@
 
 <br/>
 
-<a href="https://violetta-cv.vercel.app/#contact"><img src="./assets/cta.svg" width="100%" alt="Start a project" /></a>
+<a href="https://violetta-cv.onrender.com/#contact"><img src="./assets/cta.svg" width="100%" alt="Start a project" /></a>
